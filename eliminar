@@ -1,9 +1,0 @@
-git rm grit.gemspec
-rm 'grit.gemspec'
-$ git status
-# On branch master
-#
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#       deleted:    grit.gemspec
